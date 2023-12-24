@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block 'head' %}
+<link rel="stylesheet" type="text/css" href="{% static 'acervo/css/base.css' %}">
+{% endblock %}
+
+{% block 'conteudo' %}
+
+<main class="container" style="padding-bottom: 80px;">
+
+    <h4 style="margin-top:30px">Editar item - {{item.nome}}</h4>
+
+    <form style="margin-top:30px" action="{% url 'acervo:item_detalhes' pk=item.id %}" method="post">{% csrf_token %}
+        <div class="row g-3">
+            <div class="col">
+                <input name="nome" type="text" class="form-control" placeholder="Nome: {{item.nome}}" aria-label="Nome">
+            </div>
+            <div class="col">
+                <input name="descricao" type="text" class="form-control" placeholder="Descrição: {{item.descricao}}" aria-label="Descrição">
+            </div>
+        </div>
+        <input style="margin-top:30px" class="btn btn-dark btn-sm"  type="submit" value="Atualizar">
+        <a href="/home/"  style="margin-top:30px" class="btn btn-outline-dark btn-sm"> << voltar</a>
+    </form>
+
+</main>
+
+{% endblock %}

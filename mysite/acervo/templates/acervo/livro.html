@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block 'head' %}
+<link rel="stylesheet" type="text/css" href="{% static 'acervo/css/base.css' %}">
+{% endblock %}
+
+{% block 'conteudo' %}
+
+<main class="container" style="padding-bottom: 80px;">
+
+    <h4 style="margin-top:30px; margin-bottom:16px">Adicionar novo livro</h4>
+
+    <form action="{% url 'acervo:salva_livro' %}" method="POST"> {% csrf_token %}
+        <div class="row g-3">
+            <div class="col">
+                <input name="titulo" type="text" class="form-control" placeholder="Título" aria-label="Título">
+            </div>
+            <div class="col">
+                <input name="autor" type="text" class="form-control" placeholder="Autor" aria-label="Autor">
+            </div>
+            <div class="col">
+                <input name="ano" type="text" class="form-control" placeholder="Ano" aria-label="Ano">
+            </div>
+        </div>
+        <input style="margin-top:30px;" class="btn btn-dark btn-sm" type="submit" value="Salvar">
+    </form>
+
+    <hr/>
+
+</main>
+
+{% endblock %}

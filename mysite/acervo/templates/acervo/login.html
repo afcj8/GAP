@@ -1,0 +1,43 @@
+{% load static %}
+
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="{% static 'acervo/css/login.css' %}">
+  <script src="https://kit.fontawesome.com/cf6fa412bd.js" crossorigin="anonymous"></script>
+  <title>GAP</title>
+</head>
+
+<body>
+
+    <div class="entrar">
+        {% if erro %}
+            <div class="alert">
+                {{ erro }}
+            </div>
+        {% endif %}
+        <div class="container">
+            <h1>Login GAP</h1>
+            <div class="form">
+                <form method="POST" action="{% url 'acervo:login' %}"> {% csrf_token %}
+                    <input name="username" type="text" placeholder="Username" required />
+                    <i class="fas fa-user iUser"></i>
+                    <input name="password" type="password" placeholder="Senha" required />
+                    <i class="fas fa-lock iPassword"></i>
+                    <button type="submit">Entrar</button>
+                </form>
+                <br>
+                <div class="cadastro">
+                    <h3>Não tem conta?</h3>
+                    <a href="{% url 'acervo:cadastro' %}">Cadastre-se</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
