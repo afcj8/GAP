@@ -5,25 +5,26 @@ Durante a disciplina de Desenvolvimento Web no curso de Análise e Desenvolvimen
 <hr>
 O GAP (Gerenciamento de Acervo Pessoal) é um sistema inovador desenvolvido para ajudar os usuários a organizar e gerenciar seu acervo bibliográfico ou de outros itens pessoais. Com o GAP, os usuários podem cadastrar livros ou outros itens, realizar empréstimos para contatos cadastrados e registrar a devolução dos itens ou livros emprestados. A plataforma oferece uma interface intuitiva e de fácil utilização, permitindo uma gestão eficiente e conveniente do acervo pessoal.
 <hr>
-<img width="958" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/c5ae2479-3443-4eb7-8590-93996ce88213">
-<img width="960" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/b7bfb860-9d26-4185-b5bd-5fc20a752d88">
-<img width="960" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/5c13641e-318b-4bf3-90ed-fdbfcf912580">
-<img width="960" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/8f3e5719-4820-476b-8046-c12c98fff44b">
-<img width="959" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/b0a7275c-68fd-4a35-85b9-d8bbd14225e7">
-<img width="949" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/95130d99-e44f-4ee6-868c-828f4684bf38">
-<img width="947" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/ef96a9bb-ce01-4674-bf80-b1de9364b6cb">
-<img width="945" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/5e7c40f8-85ea-4bad-8fa3-7d5f93c0a24c">
-<img width="948" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/4911f379-bc6c-44be-b658-b6ba5381ca8a">
-<img width="960" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/4f24947b-fbff-4623-909b-90c413937db1">
-<img width="959" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/94423113-52c0-4af2-84a7-663d52d32bf2">
-<img width="960" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/32e8fa5f-4e31-4cee-99d1-61ed6d848d85">
-<img width="959" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/46eea0a9-2fb3-4547-9eaa-91368a22fdcf">
-<img width="960" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/db030bbb-5b56-4946-9299-6dd1b38a36bb">
-<img width="960" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/c1a919b4-64e2-4dc4-9647-ba5ac71b3fbe">
-<img width="960" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/8e08a0aa-31b1-49d1-876f-55e226aaf381">
-<img width="959" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/78303311-045a-4ff0-8bce-45e50a37cbf0">
-<img width="959" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/0249f6d1-340c-49eb-941b-1823342d6b19">
-<img width="960" alt="image" src="https://github.com/afcj8/GAP/assets/102259875/c1283a0e-2f49-4408-b5c4-645aad62c821">
+
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/522ed62d-f199-4b9a-9e5b-557de534b785">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/3a5ec856-faf8-4b53-8351-9184b5229d64">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/dbd855f3-fa60-4c7b-835d-ee983641f163">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/41fd9d9c-9a62-4783-9b16-b6286416be12">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/9d8f2921-e9b4-4860-8fab-3697f245db04">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/0f324182-bfea-4075-924b-789b5d605aab">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/29ebf3f7-842b-4291-af15-e71874dd77fa">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/6fd3472b-f11c-4124-b6fd-4f29ed39984a">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/0c68fd74-e0f7-45b0-b768-dc901cb49e0b">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/504aa35c-74da-43c1-b721-a7521013ea0a">
+<img width="959" alt="image" src="https://github.com/afcj8/gap/assets/102259875/e9b680c6-ae66-4f29-add1-d284c34050f1">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/6a030be9-f8a7-46aa-8a9c-5638dd3d813f">
+<img width="959" alt="image" src="https://github.com/afcj8/gap/assets/102259875/ede8c390-2e58-4b11-b9fc-c145acc24f6a">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/50993cb1-8e8f-4b79-8069-1dc996d0fa3c">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/68f162b6-ebd1-4acb-88f0-be6f9d9175c2">
+<img width="958" alt="image" src="https://github.com/afcj8/gap/assets/102259875/2cd3a9e1-998e-4778-8b14-6234316fa1cb">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/c3407025-2982-4f4e-a208-88b1940269b6">
+<img width="959" alt="image" src="https://github.com/afcj8/gap/assets/102259875/e69ac6ae-0fd8-462f-b476-aa8fadcb6080">
+<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/96c826d3-47f3-48a4-a8ea-ec1a3d25cc39">
 
 <h2>🚀 Tecnologias</h2>
 
@@ -33,7 +34,7 @@ O GAP (Gerenciamento de Acervo Pessoal) é um sistema inovador desenvolvido para
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 
-## 🛠️ Manual do Desenvolvedor (legado)
+## 🛠️ Manual do Desenvolvedor
 
 1. Clone o repositório:
    ```bash
@@ -85,7 +86,7 @@ O GAP (Gerenciamento de Acervo Pessoal) é um sistema inovador desenvolvido para
    python manage.py runserver
    ```
 
-10. Abra o navegador com a seguinte url:
+1. Abra o navegador com a seguinte url:
    ```bash
    http://localhost:8000/
    ```
