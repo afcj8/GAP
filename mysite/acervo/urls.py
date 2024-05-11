@@ -3,9 +3,8 @@ from . import views
 
 app_name = 'acervo'
 urlpatterns = [
-    path('', views.IndexView.as_view(), name = 'index'),
+    path('', views.LoginView.as_view(), name = 'login'),
     path('', views.LogoutView.as_view(), name = 'logout'),
-    path('entrar/', views.LoginView.as_view(), name = 'login'),
     path('cadastro/', views.CadastroView.as_view(), name = 'cadastro'),
     path('home/', views.HomeView.as_view(), name = 'home'),
     path("home/pesquisar", views.PesquisarView.as_view(), name='pesquisa'),

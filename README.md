@@ -6,7 +6,6 @@ Durante a disciplina de Desenvolvimento Web no curso de Análise e Desenvolvimen
 O GAP (Gerenciamento de Acervo Pessoal) é um sistema inovador desenvolvido para ajudar os usuários a organizar e gerenciar seu acervo bibliográfico ou de outros itens pessoais. Com o GAP, os usuários podem cadastrar livros ou outros itens, realizar empréstimos para contatos cadastrados e registrar a devolução dos itens ou livros emprestados. A plataforma oferece uma interface intuitiva e de fácil utilização, permitindo uma gestão eficiente e conveniente do acervo pessoal.
 <hr>
 
-<img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/522ed62d-f199-4b9a-9e5b-557de534b785">
 <img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/3a5ec856-faf8-4b53-8351-9184b5229d64">
 <img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/dbd855f3-fa60-4c7b-835d-ee983641f163">
 <img width="960" alt="image" src="https://github.com/afcj8/gap/assets/102259875/41fd9d9c-9a62-4783-9b16-b6286416be12">

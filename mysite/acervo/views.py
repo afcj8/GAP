@@ -9,10 +9,8 @@ from django.db import transaction
 from django.utils.decorators import method_decorator
 from django.contrib.auth.decorators import login_required
 
-class IndexView(View):
-    def get(self, request, *args, **kwargs):
-        return render(request, 'acervo/index.html')
-    
+# LOGIN E LOGOUT
+
 class LoginView(View):
     def get(self, request, *args, **kwargs):
         return render(request, 'acervo/login.html')
@@ -50,7 +48,7 @@ class CadastroView(View):
 
         user = User.objects.create_user(username=username, password=password, first_name=first_name, email=email)
         user.save()
-        return redirect('/entrar/')
+        return redirect('/')
     
 # HOME E PESQUISAR
 
